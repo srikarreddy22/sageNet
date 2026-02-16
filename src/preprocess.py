@@ -3,6 +3,7 @@ This script extracts, cleans, and chunks philosophical texts from PDFs.
 
 """
 
+
 import fitz  
 import re
 import json
