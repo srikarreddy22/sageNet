@@ -42,6 +42,8 @@ neo4j_config.py
 .ipynb_checkpoints/
 *.ipynb
 
+
+
 # Model files (too large)
 *.pt
 *.pth
