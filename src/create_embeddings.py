@@ -4,6 +4,7 @@ SageNet - Embedding Creation and Vector Store Setup
 This script creates embeddings from your processed text chunks
 and stores them in ChromaDB for semantic search.
 
+
 What this does:
 1. Loads your philosophical_corpus.jsonl
 2. Creates embeddings using SentenceTransformers
