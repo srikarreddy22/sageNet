@@ -11,6 +11,7 @@ NODES:
 - Concept (1000+): name, frequency, category
 - TextChunk (6000+): id, text, section, word_count, page_number
 
+
 RELATIONSHIPS:
 - WROTE: Philosopher → TextChunk (authorship)
 - BELONGS_TO: Philosopher → School (tradition)
