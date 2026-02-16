@@ -9,6 +9,7 @@ PHILOSOPHERS INCLUDED
 - Immanuel Kant
 - Confucius
 
+
 SYSTEM COMPONENTS
 
 1. Text Preprocessing (preprocess.py)
